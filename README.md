@@ -15,8 +15,6 @@
 🤝🏼 Open to collaborating on innovative and impactful projects.  
 📩 Reach me at: [dev.mdsaifulislam@gmail.com](mailto:dev.mdsaifulislam@gmail.com)  
 
-🌐 **Portfolio**: [msi-saif.netlify.app](https://msi-saif.netlify.app/)
-
 ---
 
 ## 🛠️ Technologies & Tools
