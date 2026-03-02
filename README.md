@@ -1,4 +1,4 @@
-<h3 align="center">🚀 Welcome to My World of Code & Intelligence</h3>
+<h3 align="center">Welcome to My World of Code & Intelligence</h3>
 
 <p align="center">
   Bridging creativity with code to build intelligent, real-world solutions.
@@ -6,18 +6,18 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-👋🏼 Hi, I’m an AI enthusiast and Software Developer.  
-💡 Passionate about Artificial Intelligence and building full-stack web solutions.  
-🚀 Currently working on AI projects and exploring real world applications.  
-📘 Always learning diving deep into machine learning, deep learning, large language models (LLMs), and modern AI techniques.  
-🤝🏼 Open to collaborating on innovative and impactful projects.  
-📩 Reach me at: [dev.mdsaifulislam@gmail.com](mailto:dev.mdsaifulislam@gmail.com)  
+ Hi, I’m an AI enthusiast and Software Developer.  
+ Passionate about Artificial Intelligence and building full-stack web solutions.  
+ Currently working on AI projects and exploring real world applications.  
+ Always learning diving deep into machine learning, deep learning, large language models (LLMs), and modern AI techniques.  
+ Open to collaborating on innovative and impactful projects.  
+ Reach me at: [dev.mdsaifulislam@gmail.com](mailto:dev.mdsaifulislam@gmail.com)  
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
