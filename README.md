@@ -4,8 +4,6 @@
   Bridging creativity with code to build intelligent, real-world solutions.
 </p>
 
----
-
 ## About Me
 
  Hi, I’m an AI enthusiast and Software Developer.  
