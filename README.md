@@ -13,8 +13,6 @@
  Open to collaborating on innovative and impactful projects.  
  Reach me at: [dev.mdsaifulislam@gmail.com](mailto:dev.mdsaifulislam@gmail.com)  
 
----
-
 ## Technologies & Tools
 
 <div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
